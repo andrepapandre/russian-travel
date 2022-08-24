@@ -6,6 +6,7 @@
   line-height: 18px;
   margin-right: 18px;
   color: white;
+  text-decoration: none;
 }
 
 .footer__link:last-child{
