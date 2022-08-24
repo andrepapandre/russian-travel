@@ -21,7 +21,7 @@
     bottom: 0;
     height: 100%;
     width: 100%;
-    background: black;
+    background: #2A2C2F;
     opacity: 70%;
     transition: opacity 1s;
 }
